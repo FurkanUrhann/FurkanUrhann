@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/furkannurhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkannurhann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/furkanurhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkanurhan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/furkanurhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkanurhan" height="30" width="40" /></a>
 <a href="https://fb.com/urhan98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="urhan98" height="30" width="40" /></a>
-<a href="https://instagram.com/furkann.urhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkann.urhan" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/furkan.urhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/furkan.urhann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
